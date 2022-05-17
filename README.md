@@ -12,16 +12,17 @@
 [![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/leonardo-batista-zimmermann-94363742/)
 
 ### Here are some technologies used over the years
-<!-- ![Tecnologias](images/darkperfT2.png) -->
+<!-- ![Tecnologias](images/darkperfT2.png)
+![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php) -->
 
-![PHP](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
-![VueJS](https://img.shields.io/badge/-Vue.JS-black?style=for-the-badge&logo=vue.js)
-![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=for-the-badge&logo=angularjs)
+![PHP](images/PHP.svg)
+![JavaScript](images/JAVASCRIPT.svg)
+![Nodejs](images/NODEJS.svg)
+![Python](images/PYTHON.svg)
+![React](images/REACT.svg)
+![ReactNative](images/REACT_NATIVE.svg)
+![VueJS](images/VUE.JS.svg)
+![AngularJS](images/AngularJS.svg)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
