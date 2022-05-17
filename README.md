@@ -1,3 +1,24 @@
+> 
+> 
+> 
+>  
+
+
+<!--
+**lbzconsultoria/lbzconsultoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 # I love to learn
 
 
@@ -23,40 +44,40 @@
 ![ReactNative](images/REACT_NATIVE.svg)
 ![VueJS](images/VUE.JS.svg)
 ![AngularJS](images/AngularJS.svg)
-![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/-CSharp-black?style=for-the-badge&logo=csharp)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![Jquery](https://img.shields.io/badge/-Jquery-black?style=for-the-badge&logo=jquery&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=for-the-badge&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=for-the-badge&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=for-the-badge&logo=microsoftsqlserver)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Podman](https://img.shields.io/badge/-Podman-black?style=for-the-badge&logo=podman)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=for-the-badge&logo=digitalocean)
-![Scaleway](https://img.shields.io/badge/-Scaleway-black?style=for-the-badge&logo=scaleway)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=for-the-badge&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=for-the-badge&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=for-the-badge&logo=Raspberry-Pi)
-![Free BSD](https://img.shields.io/badge/-Free%20BDS-black?style=for-the-badge&logo=freebsd)
-![Microsoft Server](https://img.shields.io/badge/-Microsoft%20Server-black?style=for-the-badge&logo=windows)
-![Debian](https://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=Debian)
+![Angular](images/Angular.svg)
+![Java](images/JAVA.svg)
+![C](images/C.svg)
+![C++](images/Cplusplus.svg)
+![C#](images/CSHARP.svg)
+![HTML5](images/HTML5.svg)
+![Jquery](images/JQUERY.svg)
+![CSS3](images/CSS3.svg)
+![Bootstrap](images/BOOTSTRAP.svg)
+![TypeScript](images/TYPESCRIPT.svg)
+![MongoDB](images/MONGODB.svg)
+![Redis](images/REDIS.svg)
+![ElasticSearch](images/ELASTICSEARCH.svg)
+![GraphQL](images/GRAPHQL.svg)
+![Apollo GraphQL](images/APOLLOGRAPHQL.svg)
+![PostgreSQL](images/POSTGRESQL.svg)
+![MySQL](images/MYSQL.svg)
+![MicrosoftSQLServer](images/MICROSOFTSQLSERVER.svg)
+![Heroku](images/HEROKU.svg)
+![Docker](images/DOCKER.svg)
+![Podman](images/PODMAN.svg)
+![DigitalOcean](images/DIGITAL_OCEAN.svg)
+![Scaleway](images/SCALEWAY.svg)
+![Amazon AWS](images/AMAZON_AWS.svg)
+![Microsoft Azure](images/MICROSOFT_AZURE.svg)
+![Google Cloud](images/GOOGLE_CLOUD.svg)
+![Git](images/GIT.svg)
+![GitHub](images/GITHUB.svg)
+![GitLab](images/GITLAB.svg)
+![BitBucket](images/BITBUCKET.svg)
+![Raspberry Pi](images/RASPBERRY_PI.svg)
+![Free BSD](images/FREE_BDS.svg)
+![Microsoft Server](images/MICROSOFT_SERVER.svg)
+![Debian](images/DEBIAN.svg)
 
 ### Hi there 👋 I'm Leonardo, I've been a programmer for a few years, since 2007 to be more exact...
 * However, the first projects were from 2012 ...
@@ -68,26 +89,7 @@
   * I used it for testing and updated many projects on ragezone, open source game servers even 2016
   * And in 2018, I had a personal family loss that really made me lose the will to everything, but I kept working even harder than before so I didn't remember or feel, and two years after that I had another loss.
   * I am currently dedicating myself to learning how to create interfaces for end users using the newest technologies, or rather, high-level frameworks, using technologies that have been on the market for a long time (HTML, CSS, ECman Script), but are currently gaining visibility and are going through really amazing updates (The Modern Web)
-> 
-> 
-> 
->  
 
-
-<!--
-**lbzconsultoria/lbzconsultoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### - 💬 Ask me about
 
