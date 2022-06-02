@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 
 ### - 💬 Ask me about
 
+
 ### This session is for human resources ? Very Funny
 
 * What is your salary expectation?
@@ -128,6 +129,20 @@ Here are some ideas to get you started:
 * What are your strengths?
   > Answer:
 - [X] I am dedicated, hardworking and curious, fun, charismatic and sincere
+
+* If you could choose, which animal would you be?
+  > Answer:
+- [X] I would be a panda !
+
+* Why wouldn't a panda be better a bear or a dog?
+  > Answer:
+- [X] They are very intelligent animals, grow very quickly and have a short life span, about 20 years. Extremely persistent and adaptable, its coat appears to have a camouflage pattern, and at birth they are almost blind and hairless and this shows strength and evolution.
+
+
+* Among the great minds, who are you to respect and why?
+  > Answer:
+- [X] Albert Einstein, The teachers thought he was useless, he thought he was a failure, he even wished he hadn't been born in a letter to his family, and what sparked his skills was the exposure, the many sources of data in the patent office he worked for, after a depression. I look to your accomplishments as inspiration whenever I have challenges and difficulties. 
+
 
 * What are your weaknesses?
   > Answer:
