@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 ![TypeScript](images/TYPESCRIPT.svg)
 ![MongoDB](images/MONGODB.svg)
 ![Redis](images/REDIS.svg)
-![ElasticSearch](images/ELASTICSEARCH.svg)
+<!-- ![ElasticSearch](images/ELASTICSEARCH.svg) -->
 ![GraphQL](images/GRAPHQL.svg)
-![Apollo GraphQL](images/APOLLOGRAPHQL.svg)
+<!-- ![Apollo GraphQL](images/APOLLOGRAPHQL.svg) -->
 ![PostgreSQL](images/POSTGRESQL.svg)
 ![MySQL](images/MYSQL.svg)
 ![MicrosoftSQLServer](images/MICROSOFTSQLSERVER.svg)
