@@ -56,9 +56,7 @@ Here are some ideas to get you started:
 ![TypeScript](images/TYPESCRIPT.svg)
 ![MongoDB](images/MONGODB.svg)
 ![Redis](images/REDIS.svg)
-<!-- ![ElasticSearch](images/ELASTICSEARCH.svg) -->
 ![GraphQL](images/GRAPHQL.svg)
-<!-- ![Apollo GraphQL](images/APOLLOGRAPHQL.svg) -->
 ![PostgreSQL](images/POSTGRESQL.svg)
 ![MySQL](images/MYSQL.svg)
 ![MicrosoftSQLServer](images/MICROSOFTSQLSERVER.svg)
@@ -78,6 +76,9 @@ Here are some ideas to get you started:
 ![Free BSD](images/FREE_BDS.svg)
 ![Microsoft Server](images/MICROSOFT_SERVER.svg)
 ![Debian](images/DEBIAN.svg)
+
+<!-- ![ElasticSearch](images/ELASTICSEARCH.svg) -->
+<!-- ![Apollo GraphQL](images/APOLLOGRAPHQL.svg) -->
 
 ### Hi there 👋 I'm Leonardo, I've been a programmer for a few years, since 2007 to be more exact...
 * However, the first projects were from 2012 ...
